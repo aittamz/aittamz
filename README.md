@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aittamz
-- 👀 I’m interested in music
-- 🌱 I’m currently learning how to use APIs, some music script and digital methods
+- 👀 I’m a musicologist
 - 🌱 Here's the appendix to my phd thesis
 - 📫 mattia_zanotti01@universitadipavia.it
 
