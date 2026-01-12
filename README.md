@@ -71,7 +71,7 @@ Optional.
 You can also just link to an external page.
 -->
 
-- For a list (more or less up to date and a little messy), click here: https://unimi.academia.edu/MZanotti/CurriculumVitae
+- For a list (more or less up to date and a little messy), click here: **[CV](https://unimi.academia.edu/MZanotti/CurriculumVitae)**
 
 
 
@@ -98,7 +98,7 @@ Minimal.
 -->
 
 - Email: mattia.zanotti@hotmail.it
-- Orcid: https://orcid.org/0000-0002-4154-3250
+- Orcid: [https://orcid.org/0000-0002-4154-3250](https://orcid.org/0000-0002-4154-3250)
 
 ---
 This page is a work in progress.
