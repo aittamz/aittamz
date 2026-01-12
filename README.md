@@ -46,7 +46,9 @@ Use links.
 - They will arrive!  **BEYOND THE TRACK** 
 
 ### 🗺️ Archives, maps & networks
-- **[MAPSEM – DATA VIZ]([link](https://aittamz.github.io/MAPSEM/))** — interactive visualizations of data related to the MAPSEM project.
+- **[MAPSEM – DATA VIZ](https://aittamz.github.io/MAPSEM/)** — interactive visualizations of data related to the MAPSEM project.
+– **[MAPSEM – OFFICIAL](https://mapsem.changes.unimi.it/)** — official front-end of MAPSEM project.
+
 
 ---
 
