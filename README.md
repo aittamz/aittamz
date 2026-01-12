@@ -13,7 +13,7 @@ Short paragraph.
 What you study / build / explore.
 Think: "why should I scroll down?"
 -->
-I'm a platform-musicolgist and researcher. I do research on platformed music and try to see clearly among the data.
+I'm a platform-musicologist and researcher. I do research on platformed music and try to see clearly among the data.
 ---
 
 ## 🧭 Research interests
@@ -40,15 +40,13 @@ Use links.
 -->
 
 ### 📊 Digital methods & data
-- **[repo-name](link)** — one-line description
-- **[repo-name](link)** — one-line description
+- They will arrive!  **BEYOND THE TRACK** 
 
 ### 🎼 Music, media & platforms
-- **[repo-name](link)** — one-line description
-- **[repo-name](link)** — one-line description
+- They will arrive!  **BEYOND THE TRACK** 
 
 ### 🗺️ Archives, maps & networks
-- **[repo-name](link)** — one-line description
+- **[MAPSEM – DATA VIZ]([link](https://aittamz.github.io/MAPSEM/))** — interactive visualizations of data related to the MAPSEM project.
 
 ---
 
@@ -71,20 +69,9 @@ Optional.
 You can also just link to an external page.
 -->
 
-- 
-- 
+- For a list (more or less up to date and a little messy), click here: https://unimi.academia.edu/MZanotti/CurriculumVitae
 
----
 
-## 🤝 Collaborations
-
-<!--
-Institutions, projects, people (lightly).
-No acknowledgements section vibes.
--->
-
-- 
-- 
 
 ---
 
@@ -97,6 +84,7 @@ No buzzwords.
 
 - Digital Methods
 - Digital Humanities
+- I'm working on some Mattia-proof tools.
 
 
 ---
@@ -107,8 +95,8 @@ No buzzwords.
 Minimal.
 -->
 
-- Email:  mattia.zanotti@hotmail.it
-- Orcid: (https://orcid.org/0000-0002-4154-3250)
+- Email: mattia.zanotti@hotmail.it
+- Orcid: https://orcid.org/0000-0002-4154-3250
 
 ---
 This page is a work in progress.
